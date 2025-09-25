@@ -1,0 +1,123 @@
+subcategory_id,category_id,subcategory_name
+1,1,Footwear
+2,1,Hiking Apparel
+3,1,Backpacks & Daypacks
+4,1,Trekking Poles
+5,1,Tents & Shelters
+6,1,Sleeping Bags & Pads
+7,1,Camp Furniture
+8,1,Stoves & Cookware
+9,1,Hydration & Filters
+10,1,Trail Food & Nutrition
+11,1,"Navigation (Maps, Compasses, GPS)"
+12,1,"Lighting (Headlamps, Lanterns)"
+13,1,First Aid & Emergency
+14,1,Multi-tools & Knives
+15,1,Insect & Sun Protection
+16,2,Climbing Shoes
+17,2,Harnesses
+18,2,Ropes & Cordage
+19,2,Belay & Rappel Devices
+20,2,Carabiners & Quickdraws
+21,2,"Protection (Cams, Nuts, Hexes)"
+22,2,Ice Axes & Crampons
+23,2,Mountaineering Boots
+24,2,Helmets
+25,2,Chalk & Chalk Bags
+26,2,Climbing Packs & Rope Bags
+27,2,Bouldering Pads
+28,2,Alpine Clothing & Gloves
+29,2,Avalanche Safety Gear
+30,3,Mountain Bikes
+31,3,Road & Gravel Bikes
+32,3,E-Bikes
+33,3,Helmets
+34,3,Cycling Shoes
+35,3,Jerseys & Jackets
+36,3,Gloves & Pads
+37,3,Tires & Wheels
+38,3,Chains & Brakes
+39,3,Pumps & Repair
+40,3,Bike Tools & Stands
+41,3,Lights & Reflectors
+42,3,Hydration Packs & Bottles
+43,3,Racks & Transport
+44,3,GPS Computers & Accessories
+45,4,Road Running Shoes
+46,4,Trail Running Shoes
+47,4,Racing Flats
+48,4,Running Apparel
+49,4,Hydration Belts & Vests
+50,4,Headlamps & Visibility
+51,4,GPS Watches & HRM
+52,4,Gels & Nutrition
+53,4,Recovery Tools
+54,4,Training Accessories
+55,5,Kayaks
+56,5,Canoes
+57,5,Inflatable Boats
+58,5,Paddles & Oars
+59,5,Spray Skirts
+60,5,PFDs
+61,5,Helmets & Safety Ropes
+62,5,Dry Bags & Cases
+63,5,Wetsuits & Drysuits
+64,5,Water Shoes & Sandals
+65,5,Roof Racks & Straps
+66,5,Pumps & Repair
+67,6,Surfboards
+68,6,Bodyboards & Skimboards
+69,6,SUP Boards
+70,6,"Fins, Leashes & Wax"
+71,6,Board Bags
+72,6,Wetsuits & Rash Guards
+73,6,Swimwear
+74,6,Sun Protection & Hats
+75,6,Beach Chairs & Umbrellas
+76,6,Coolers & Beach Bags
+77,7,Spinning Rods & Reels
+78,7,Fly Rods & Reels
+79,7,Casting Rods & Reels
+80,7,Line & Leaders
+81,7,Lures & Flies
+82,7,Tackle Storage
+83,7,Waders & Boots
+84,7,Vests & Apparel
+85,7,Nets & Gaffs
+86,7,Fish Finders & GPS
+87,7,Coolers & Stringers
+88,7,Knives & Pliers
+89,8,"Optics (Binoculars, Rangefinders)"
+90,8,Camo Clothing & Boots
+91,8,"Gloves, Hats & Masks"
+92,8,Game Calls & Decoys
+93,8,Blinds & Stands
+94,8,Field Dressing & Knives
+95,8,Trail Cameras
+96,8,First Aid & Survival
+97,8,Packs & Game Carriers
+98,9,Alpine Skis & Bindings
+99,9,Snowboards & Bindings
+100,9,Cross-Country Skis
+101,9,Snowshoes
+102,9,Ski/Snowboard Boots
+103,9,Poles & Wax
+104,9,Helmets & Goggles
+105,9,Jackets & Pants
+106,9,Gloves & Mittens
+107,9,Avalanche Beacons & Probes
+108,9,Sleds & Toboggans
+109,9,Boot & Gear Bags
+110,10,Rooftop Tents & Awnings
+111,10,Vehicle Racks & Storage
+112,10,Recovery Gear
+113,10,Camp Kitchens
+114,10,Coolers & Fridges
+115,10,Tables & Chairs
+116,10,Solar & Portable Power
+117,10,GPS & Satellite Comms
+118,10,Travel Backpacks & Duffels
+119,10,Packing Organizers
+120,10,Travel Clothing & Footwear
+121,10,First Aid & Emergency
+122,10,Water Filtration
