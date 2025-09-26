@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Track large binary outputs with Git LFS
+outputs/**/*.csv filter=lfs diff=lfs merge=lfs
+outputs/figures/** filter=lfs diff=lfs merge=lfs
+assets/** filter=lfs diff=lfs merge=lfs
+
+# Ensure consistent line endings
+* text=auto eol=lf
