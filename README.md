@@ -22,52 +22,15 @@ The work simulates a real consulting engagement: from raw transactional data to 
 ## 🗂 Project Structure
 
 01-customer-rfm-churn-analysis/
-├─ README.md
-├─ LICENSE
-├─ requirements.txt
-├─ environment.yml
-├─ .gitattributes
-├─ .gitignore
-├─ data/
-│   ├─ raw/
-│   │   ├─ customers.csv
-│   │   ├─ orders.csv
-│   │   ├─ order_items.csv
-│   │   ├─ payments.csv
-│   │   ├─ returns.csv
-│   │   ├─ refunds.csv
-│   │   └─ products.csv
-│   └─ processed/
-├─ notebooks/
-│   └─ 01_customer_rfm_churn_analysis.ipynb
-├─ src/
-│   ├─ __init__.py
-│   ├─ data_loading.py
-│   ├─ rfm_analysis.py
-│   ├─ churn_model.py
-│   └─ visualization.py
-├─ assets/
-│   ├─ junglecart_logo.png
-│   ├─ colour_palette.md
-│   └─ diagrams/
-│       ├─ rfm_framework.png
-│       └─ churn_workflow.svg
-├─ outputs/
-│   ├─ figures/
-│   │   ├─ rfm_segments_counts.png
-│   │   ├─ rfm_scatter_recency_monetary.png
-│   │   ├─ churn_rate_by_segment.png
-│   │   ├─ km_overall.png
-│   │   └─ risk_deciles.png
-│   ├─ customers_rfm.csv
-│   ├─ customers_rfm_churn_labels.csv
-│   ├─ customers_churn_scores.csv
-│   ├─ customers_clv_6m.csv
-│   └─ customer_master_rfm_churn_clv.csv
-└─ docs/
-    ├─ methodology.md
-    ├─ key_findings.md
-    └─ next_steps.md
+├─ README.md                # project overview and instructions
+├─ .gitattributes           # Git LFS and line-ending rules
+├─ .gitignore               # files and folders to ignore in git
+├─ data/                    # input CSVs (raw data)
+├─ notebooks/               # main Jupyter notebook
+├─ src/                     # reusable Python scripts
+├─ assets/                  # static images/branding for reports
+├─ outputs/                 # analysis results (figures & CSV exports)
+└─ docs/                    # key findings and methodology notes
 
 Key configuration files:
 * **.gitattributes** – enables Git LFS for large artefacts (figures, CSVs).
