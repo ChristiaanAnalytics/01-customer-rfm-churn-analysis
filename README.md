@@ -21,16 +21,18 @@ The work simulates a real consulting engagement: from raw transactional data to 
 
 ## 🗂 Project Structure
 
+```
 01-customer-rfm-churn-analysis/
-├─ README.md                # project overview and instructions
-├─ .gitattributes           # Git LFS and line-ending rules
-├─ .gitignore               # files and folders to ignore in git
-├─ data/                    # input CSVs (raw data)
-├─ notebooks/               # main Jupyter notebook
-├─ src/                     # reusable Python scripts
-├─ assets/                  # static images/branding for reports
-├─ outputs/                 # analysis results (figures & CSV exports)
-└─ docs/                    # key findings and methodology notes
+├─ README.md          # project overview and usage instructions
+├─ .gitattributes     # Git LFS settings and line-ending rules
+├─ .gitignore         # files and folders ignored by git
+├─ data/              # raw CSV data from the JungleCart data generator
+├─ notebooks/         # main Jupyter notebook for RFM & churn analysis
+├─ src/               # reusable Python scripts and helper functions
+├─ assets/            # static images or branding resources for reports
+├─ outputs/           # analysis results: figures and exported CSV tables
+└─ docs/              # methodology notes and key findings for stakeholders
+```
 
 Key configuration files:
 * **.gitattributes** – enables Git LFS for large artefacts (figures, CSVs).
