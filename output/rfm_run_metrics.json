@@ -1,0 +1,18 @@
+{
+  "snapshot_date": "2025-09-30",
+  "n_customers": 150000,
+  "n_orders": 993593,
+  "heuristic_churn_rate": 0.64026,
+  "auc_holdout": null,
+  "figures_saved": [
+    "churn_by_segment.png",
+    "churn_window_curve.png",
+    "recency_hist_and_ecdf.png",
+    "retention_heatmap.png",
+    "rfm_histograms.png",
+    "value_vs_recency_static.png"
+  ],
+  "html_saved": [
+    "value_vs_recency_interactive.html"
+  ]
+}
