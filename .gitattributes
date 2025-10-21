@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
+\# filter=lfs diff=lfs merge=lfs -text
 * text=auto
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+your filter=lfs diff=lfs merge=lfs -text
+notebooks filter=lfs diff=lfs merge=lfs -text
+regularly filter=lfs diff=lfs merge=lfs -text
+exceed filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+only filter=lfs diff=lfs merge=lfs -text
+100MB filter=lfs diff=lfs merge=lfs -text
+if filter=lfs diff=lfs merge=lfs -text
